@@ -37,6 +37,7 @@
 			<version>2.31</version>
 		</dependency>
 
+<!-- You dont need to add this validator  because of this AWS getting failed... -->
 		<!-- https://mvnrepository.com/artifact/org.hibernate/hibernate-validator -->
 		<!-- <dependency>
 			<groupId>org.hibernate</groupId>
